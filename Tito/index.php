@@ -99,6 +99,7 @@ $(document).ready(function () {
                 <h3>Time Traffic Overview - APJ CMBU</h3>
                 <h5>Stay safe!</h5>
                 <h5>Stay safe!</h5>
+                <h5>Stay safe!</h5>
                 <!-- <h5>by Vince :)</h5> -->
                  <?PHP
                  echo "Runs on : " . gethostname() . " (" . getHostByName(getHostName()) .")";
