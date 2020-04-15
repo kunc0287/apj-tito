@@ -366,7 +366,7 @@ $(document).ready(function () {
 
             // This example requires the Places library. Include the libraries=places
             // parameter when you first load the API. For example:
-            //<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5ZDRG9r8hBWrtlGsEuJKU2KBg_cCV_Qk&libraries=places">
+            //<script src="https://maps.googleapis.com/maps/api/js?key=<yourkey>&libraries=places">
 
             var placeSearch, autocomplete;
 
