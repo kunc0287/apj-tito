@@ -97,10 +97,10 @@ $(document).ready(function () {
             <div class="text-vertical-center">
                 <h1>Tito</h1>
                 <h3>Time Traffic Overview - APJ CMBU</h3>
+                <h3>Stay Safe Everyone!</h3>
                  <?PHP
                  echo "Runs on : " . gethostname() . " (" . getHostByName(getHostName()) .")";
-
-                                 ?>
+                ?>
                 <br>
                 <br>
                 <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
