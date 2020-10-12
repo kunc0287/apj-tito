@@ -96,8 +96,7 @@ $(document).ready(function () {
         <header id="top" class="header">
             <div class="text-vertical-center">
                 <h1>Tito</h1>
-                <h3>Time Traffic Overview - APJ CMBU</h3>
-                <h2>Welcome NCS!</h2>
+                <h3>Time Traffic Overview - APJ CMBU</h3></h2>
                  <?PHP
                  echo "Runs on : " . gethostname() . " (" . getHostByName(getHostName()) .")";
                 ?>
